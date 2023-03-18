@@ -1,1 +1,2 @@
-Application is hosted on firebase here - 
+Application is hosted on firebase here - Hosting URL: https://wp1-ca3-e3086.web.app
+Github - https://github.com/fergalfeeney/WP1-CA3v2.git (not many commits because I had to start again and copy in old code)
